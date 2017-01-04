@@ -73,7 +73,7 @@ h3 {
     border: 3px solid;
     border-radius: 10px !important;
     border-radius: 1em 4em 1em 4em;
-    background: rgb(0, 0, 0);
+    background: black;
     background: rgba(0, 0, 0, 0.7);
 }
 
@@ -83,7 +83,7 @@ h3 {
 
 .span {
     color: white;
-    background: rgb(0, 0, 0);
+    background: black;
     background: rgba(0, 0, 0, 0.7);
     border: 0.1px;
     border-radius: 10px !important;
