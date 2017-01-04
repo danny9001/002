@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="https://dima4-public.sharepoint.com/bootstrap/dima.css" rel="stylesheet">
     <link href="https://dima4-public.sharepoint.com/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <meta name="viewport" content="width=device-width, user-scalable=no">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
     <script src="https://dima4-public.sharepoint.com/bootstrap/js/bootstrap.min.js"></script>
 </head>
