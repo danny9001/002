@@ -20,7 +20,7 @@
                         <div class="wrapper">
                             <img class='img-responsive col-xs-12 sizeimg' src="https://dima4-public.sharepoint.com/plantilla/topturismo-yungas-00b.png" />
                             <div class="overlay">
-                                <i><h1>&#33;LA DIMATON 2017 <br> EST&#193; POR LLEGAR&#161;</h1></i>
+                                <i><h1>&#33;DIMATON 2017 <br> EST&#193; POR LLEGAR&#161;</h1></i>
                                 <i><h3>Este DIMATON no te pierdas de una aventura <br> inolvidable</h3></i>
                                 <div class="size0">
                                     <i><h1 class="h0">YUNGAS</h1></i>
