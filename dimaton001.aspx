@@ -19,20 +19,34 @@
                     <div class="wrapper">
                         <img class="displayed img-responsive col-xs-12 sizeimg" src="images\001\000.jpg" alt="">
                         <div class="overlay">
-                            <i><h1>&#34;DIMATON 2017&#34; <br> EST&#193; POR LLEGAR</h1></i>
+                            <i><h1><span class="span">&#34;DIMATON 2017&#34;</span></h1></i>
                         </div>
                     </div>
                 </th>
             </tr>
             <tr>
                 <td>
-                    <img class="displayed" src="images\001\00A.jpg" alt="">
+                    <div class="wrapper">
+                        <img class="displayed img-responsive col-xs-12 sizeimg" src="images\001\001.jpg" alt="">
+                    </div>
                 </td>
                 <td>
-                    <img class="displayed" src="images\001\00B.jpg" alt="">
+                    <div class="wrapper">
+                        <img class="displayed img-responsive col-xs-12 sizeimg" src="images\001\025.jpg" alt="">
+                        <div class="overlay">
+                            <h2>
+                                <span class="span">28</span>
+                                <span class="span">29</span>
+                                <span class="span">30</span>
+                                <span class="span">01</span>
+                            </h2>
+                        </div>
+                    </div>
                 </td>
                 <td>
-                    <img class="displayed" src="images\001\00C.jpg" alt="">
+                    <div class="wrapper">
+                        <img class="displayed img-responsive col-xs-12 sizeimg" src="images\001\003.jpg" alt="">
+                    </div>
                 </td>
             </tr>
         </table>
