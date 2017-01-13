@@ -99,4 +99,8 @@ IMG.displayed {
 
 .image2 {
     position: absolute;
+    width: 10%;
+    margin-top: 2%;
+    margin-left: 45%;
+    margin-right: 45%;
 }
