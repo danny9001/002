@@ -18,6 +18,7 @@
                 <th colspan="3">
                     <div class="wrapper">
                         <img class="displayed img-responsive col-xs-12 sizeimg" src="images\001\000.jpg" alt="">
+                        <img class="image2 displayed" src="images\original\logo dima.jpg" </div>
                         <div class="overlay">
                             <i><h1><span class="span">&#34;DIMATON 2017&#34;</span></h1></i>
                         </div>
@@ -28,7 +29,6 @@
                 <td>
                     <div class="wrapper">
                         <img class="displayed img-responsive col-xs-12 sizeimg" src="images\001\001.jpg" alt="">
-                    </div>
                 </td>
                 <td>
                     <div class="wrapper">
@@ -40,6 +40,9 @@
                                 <span class="span">30</span>
                                 <span class="span">01</span>
                             </h2>
+                            <h3>
+                                <span class="span">Abril - Mayo</span>
+                            </h3>
                         </div>
                     </div>
                 </td>
@@ -50,7 +53,7 @@
                 </td>
             </tr>
         </table>
-    </div>
+        </div>
 </body>
 
 </html>

@@ -62,7 +62,7 @@ h3 {
     margin-top: 1% !important;
     text-align: center;
     text-shadow: 2px 2px #333333;
-    font-size: 3.2vw !important;
+    font-size: 1.5vw !important;
 }
 
 .h0 {
@@ -95,4 +95,8 @@ IMG.displayed {
     display: block;
     margin-left: auto;
     margin-right: auto
+}
+
+.image2 {
+    position: absolute;
 }
