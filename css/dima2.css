@@ -14,7 +14,8 @@
 .table>thead>tr>td,
 .table>thead>tr>th {
     padding: 0px !important;
-    border-top: none !important;
+    vertical-align: bottom !important;
+    border-top: 0px !important;
 }
 
 .image {

@@ -14,7 +14,8 @@
 .table>thead>tr>td,
 .table>thead>tr>th {
     padding: 0px !important;
-    border-top: none !important;
+    vertical-align: bottom !important;
+    border-top: 0px !important;
 }
 
 .image {
@@ -100,8 +101,20 @@ IMG.displayed {
 
 .image2 {
     position: absolute;
-    width: 10%;
-    margin-top: 2%;
-    margin-left: 45%;
+    width: 13%;
+    margin-top: 5%;
+    margin-left: 4%;
     margin-right: 45%;
+}
+
+@media screen and (max-width: 200px) {
+    .alt-table-responsive {
+        width: 100%;
+        margin-bottom: 15px;
+        overflow-y: hidden;
+        overflow-x: auto;
+        -ms-overflow-style: -ms-autohiding-scrollbar;
+        border: 1px solid #dddddd;
+        -webkit-overflow-scrolling: touch;
+    }
 }
