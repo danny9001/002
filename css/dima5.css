@@ -45,24 +45,10 @@
 
 .h1,
 h1 {
-    margin-top: 12% !important;
+    margin-top: 10% !important;
     text-align: center;
     text-shadow: 2px 2px #333333;
     font-size: 3.0vw !important;
-}
-
-.h2,
-h2 {
-    margin-top: 125% !important;
-    text-align: center;
-    text-shadow: 2px 2px #333333;
-    font-size: 3.2vw !important;
-}
-
-.h3,
-h3 {
-    text-shadow: 2px 2px #333333;
-    font-size: 1.5vw !important;
 }
 
 .h0 {
@@ -75,6 +61,26 @@ h3 {
     border-radius: 1em 4em 1em 4em;
     background: black;
     background: rgba(0, 0, 0, 0.7);
+}
+
+.font0 {
+    font-size: 3.2vw !important;
+}
+
+.font1 {
+    font-size: 9.2vw !important;
+}
+
+.font3 {
+    font-size: 2.2vw !important;
+}
+
+.font4 {
+    font-size: 1.2vw !important;
+}
+
+p {
+    margin: 0 0 0 0px !important;
 }
 
 .size0 {
@@ -99,10 +105,10 @@ IMG.displayed {
 
 .image2 {
     position: absolute;
-    width: 14%;
-    margin-top: 28.5%;
-    margin-left: 4%;
-    margin-right: 45%;
+    width: 8%;
+    margin-top: 2%;
+    margin-left: 45%;
+    margin-right: 45%
 }
 
 body {
@@ -129,11 +135,29 @@ body {
 }
 
 .centertxt {
-    text-align: center;
-    margin-top: 28%;
+    text-align: center !important;
 }
 
 .centertxt2 {
     margin-top: -7% !important;
     text-align: center;
+}
+
+.justtxt {
+    text-align: justify;
+}
+
+.fondo0A {
+    background-color: #657BA5;
+    color: white;
+}
+
+.fondo0B {
+    background-color: #4F5A75;
+    color: white;
+}
+
+.fondo1 {
+    background-color: black;
+    color: white;
 }
