@@ -4,7 +4,7 @@
 <head>
     <title>DIMATON 2017</title>
     <meta name="viewport" content="width=device-width, initial-scale=1" charset="UTF-8">
-    <link href="css/dima6.css" rel="stylesheet">
+    <link href="https://dima4-public.sharepoint.com/bootstrap/dima6.css" rel="stylesheet">
     <link href="https://dima4-public.sharepoint.com/bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <meta name="viewport" content="width=device-width, user-scalable=no">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
@@ -38,7 +38,7 @@
             </div>
 
             <div class="col-md-3 col-sm-6 col-xs-12 float-shadow">
-                <div class="recommended"><strong><span class="glyphicon glyphicon-heart" aria-hidden="true"></span>&#9829; Recomendado</strong></div>
+                <div class="recommended"><strong><span class="glyphicon glyphicon-heart" aria-hidden="true"></span>Recomendado</strong></div>
                 <div class="price_table_container">
                     <div class="price_table_heading">
                         <h2>Dead Route</h2>
