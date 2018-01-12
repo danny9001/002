@@ -18,7 +18,7 @@
                 <tr>
                     <th colspan="2">
                         <div class="wrapper">
-                            <img class='img-responsive col-xs-12 sizeimg' src="images/resize/topturismo-yungas-00b.jpg" />
+                            <img class='img-responsive col-xs-12 sizeimg' src="images/resize/topturismo-yungas.jpg" />
                             <div class="overlay">
                                 <i><h1>&#34;DIMATON 2017&#34; <br> EST&#193; POR LLEGAR</h1></i>
                                 <i><h3>Este DIMATON no te pierdas de una aventura <br> inolvidable</h3></i>
